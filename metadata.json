@@ -1,0 +1,6 @@
+{
+  "name": "Waste2Wealth – Waste to Value Economy",
+  "description": "Empowering communities and industries to turn recyclable waste into valuable resources through marketplace trading, smart valuation, recycling centers, and circular economy intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
